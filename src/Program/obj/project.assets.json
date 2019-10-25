@@ -722,6 +722,7 @@
   },
   "packageFolders": {
     "C:\\Users\\usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\FIT\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -732,12 +733,18 @@
       "projectPath": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Program\\Program.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Program\\obj\\",
+      "projectUniqueName": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Program\\Program.csproj",
+      "projectName": "Program",
+      "projectPath": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Program\\Program.csproj",
+      "packagesPath": "C:\\Users\\FIT\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Program\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -753,6 +760,11 @@
             },
             "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Library\\Library.csproj": {
               "projectPath": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Library\\Library.csproj"
+            "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\ConsoleGame\\ConsoleGame.csproj": {
+              "projectPath": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\ConsoleGame\\ConsoleGame.csproj"
+            },
+            "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Library\\Library.csproj": {
+              "projectPath": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Library\\Library.csproj"
             }
           }
         }

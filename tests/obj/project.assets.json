@@ -2588,10 +2588,7 @@
       "path": "runtime.native.system/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
-        "dotnet_library_license.txt",
-        "lib/netstandard1.0/_._",
         "runtime.native.system.4.3.0.nupkg.sha512",
         "runtime.native.system.nuspec"
       ]
@@ -3008,6 +3005,7 @@
     },
     "System.ComponentModel.Primitives/4.3.0": {
       "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
@@ -3046,6 +3044,7 @@
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
       "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -5714,22 +5713,26 @@
   },
   "packageFolders": {
     "C:\\Users\\usuario\\.nuget\\packages\\": {},
+    "C:\\Users\\FIT\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\tests\\Library.Test.csproj",
       "projectName": "Library.Test",
       "projectPath": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\tests\\Library.Test.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\tests\\obj\\",
+      "projectUniqueName": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\tests\\Library.Test.csproj",
+      "projectPath": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\tests\\Library.Test.csproj",
+      "packagesPath": "C:\\Users\\FIT\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\FIT\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
@@ -5742,7 +5745,6 @@
           "projectReferences": {
             "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Library\\Library.csproj": {
               "projectPath": "c:\\Users\\usuario\\Documents\\GitHub\\Rol_PlayGame_Testing_Eq.8\\src\\Library\\Library.csproj"
-            }
           }
         }
       },
