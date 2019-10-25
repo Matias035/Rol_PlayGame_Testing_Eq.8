@@ -1,9 +1,0 @@
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\bin\Debug\netcoreapp2.2\RoleplayGameLibrary.deps.json
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\bin\Debug\netcoreapp2.2\RoleplayGameLibrary.dll
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\bin\Debug\netcoreapp2.2\RoleplayGameLibrary.pdb
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\obj\Debug\netcoreapp2.2\Library.csprojAssemblyReference.cache
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\obj\Debug\netcoreapp2.2\Library.csproj.CoreCompileInputs.cache
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\obj\Debug\netcoreapp2.2\Library.AssemblyInfoInputs.cache
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\obj\Debug\netcoreapp2.2\Library.AssemblyInfo.cs
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\obj\Debug\netcoreapp2.2\RoleplayGameLibrary.dll
-c:\Users\usuario\Documents\GitHub\Rol_PlayGame_Testing_Eq.8\src\Library\obj\Debug\netcoreapp2.2\RoleplayGameLibrary.pdb
